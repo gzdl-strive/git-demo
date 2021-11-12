@@ -7,4 +7,4 @@ hello git!
 hello git!
 hello git!
 git pull 远程库地址别名 分支名 ==》 拉取到本地 ==> 66666;
-
+fork update ===> gzdl ez 666 => 修改
